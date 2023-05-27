@@ -47,7 +47,7 @@
 // | SHIFT | CAPS  |      | PGDWN | PGUP  |     |   |     | F1  | F2  | F3 | F4 | F5   |
 // |       |       |      | WIN   | LL    | ENT |   | SPC | BL  | ALT |    |    |      |
                         bindings = <
-   &kp TAB   &kp PSCRN   &trans   &kp UP        &trans      &trans  &BT_CLR   &kp F11 &kp F12 &kp LEFT_BRACE &kp RIGHT_BRACE &kp BSPC
+   &kp TAB   &kp PSCRN   &trans   &kp UP        &trans      &trans  &BT_CLR   &kp F11 &kp F12 &kp LEFT_BRACKET &kp RIGHT_BRACKET &kp BSPC
    &kp LCTRL &kp HOME    &kp LEFT &kp DOWN      &kp RIGHT   &kp END &trans    &kp F6  &kp F7  &kp F8         &kp F9          &kp F10
    &kp LSHFT &kp CAPS    &trans   &kp PAGE_DOWN &kp PAGE_UP &trans  &trans    &kp F1  &kp F2  &kp F3         &kp F4          &kp F5
                                   &kp LGUI      &trans      &kp RET &kp SPACE &trans  &kp RALT
